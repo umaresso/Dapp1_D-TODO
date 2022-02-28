@@ -1,0 +1,9 @@
+.middleHR > hr {
+  width: 14vw;
+  padding: 4px;
+  font-size: 10px;
+  margin: 0 auto;
+  background-color: rgb(14, 230, 147);
+  border: 2px solid rgb(24, 23, 23);
+  border-radius: 5px;
+}
