@@ -1,7 +1,7 @@
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 // MNEMONIC_PHRASE and INFURA_KEY are mentioned in .env file
 const mnemonic =
-  "a96557495b579cf665544a4ab84cbfb0e2ac3e0a2d3d345580149dc2e7c292fe";
+  "cb0764fe064b7898bb399060a567f5c07525584fc306b74ed0549e00b2d97edb";
 const infuraKey = "13b345ac340c4691a2a1b21efa500e98";
 
 module.exports = {
