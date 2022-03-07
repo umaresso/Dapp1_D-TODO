@@ -1958,10 +1958,17 @@
       "links": {},
       "address": "0x9D566bE9915313c867F66Cf78C8D34eA1e289169",
       "transactionHash": "0xe3b50162f3b13331c711d1026b5fbf292050b4bca5bfd71219efb79923882f3b"
+    },
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0xa33c1Cd50773512f724B7d07986B5A6d389c1e72",
+      "transactionHash": "0xb0f36705da7088a4748138f08db0f4a4f77dc787c5806c085f29baeb0cc06d95"
     }
   },
   "schemaVersion": "3.4.5",
-  "updatedAt": "2022-02-27T16:52:54.541Z",
+  "updatedAt": "2022-03-07T13:43:54.845Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
