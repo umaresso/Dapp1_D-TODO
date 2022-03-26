@@ -21,6 +21,10 @@ https://user-images.githubusercontent.com/71306738/156003744-69f20fa0-c1f7-45a4-
 ### Deployment Link
 ###### Caution:
               Login with Test Account. Don't lose original money .
+              if you don't have test Ether , grab from Rinkeby faucet 
+              from the following link
+              https://faucet.rinkeby.io/
+
 In order to have the live demo , visit 
 https://d-todo-umaresso.vercel.app
 
